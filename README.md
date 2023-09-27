@@ -6,9 +6,9 @@ backend Restful api
 # Base url
 http://localhost:5000/api/user/login
 
-# for run server type command "nodemon index.js"
+## for run server type command "nodemon index.js"
 
-# For update user and delete user you need to authorize. For this first login with login routes then copy token after login and paste that token in auth section while hitting api request .
+For update user and delete user you need to authorize. For this first login with login routes then copy token after login and paste that token in auth section while hitting api request .
 
 # Following routes is mentioned below
 
